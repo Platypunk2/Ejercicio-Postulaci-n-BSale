@@ -11,7 +11,7 @@ sample_analytics_dataset.zip
 Thumbs.db
 
 # Ignorar carpetas de entorno virtual y dependencias
-ETL/
+venv/
 node_modules/
 __pycache__/
 
