@@ -1,0 +1,18 @@
+# Ignorar archivos de Draw.io
+BsaleExercise.drawio
+BsaleExercise-Página-2.drawio.png
+sample_analytics_dataset.zip
+
+# Ignorar archivos temporales y de sistema comunes
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Ignorar carpetas de entorno virtual y dependencias
+ETL/
+node_modules/
+__pycache__/
+
+# Puedes añadir más archivos o carpetas a ignorar aquí
